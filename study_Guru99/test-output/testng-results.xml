@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9761" started-at="2018-10-11T02:37:39Z" finished-at="2018-10-11T02:37:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9761" started-at="2018-10-11T02:37:39Z" finished-at="2018-10-11T02:37:49Z">
+      <class name="Scroll_Bar.HorizontalScroll">
+        <test-method status="PASS" signature="ScrollHorizontally()[pri:0, instance:Scroll_Bar.HorizontalScroll@ae45eb6]" name="ScrollHorizontally" duration-ms="9745" started-at="2018-10-11T09:37:39Z" finished-at="2018-10-11T09:37:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollHorizontally -->
+      </class> <!-- Scroll_Bar.HorizontalScroll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
